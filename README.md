@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Detroner
-- 👀 I’m interested in ... Web dev
-- 🌱 I’m currently learning ... CS50 (harvard)
-- 💞️ I’m looking to collaborate on ...not now
+- 👀 I’m interested in ... Data
+- 🌱 I’m currently learning ... CS50p by harvard
+- 💞️ I’m looking to collaborate on ...anythin
 - 📫 How to reach me ...detronerofficial@gmail.com
 
 <!---
